@@ -39,8 +39,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Repository URL: [@NadunKMS/react-form](https://github.com/NadunKMS/react-form)
+- Live Site URL: [contact-form-react-tailwind-nadun.netlify.app](https://contact-form-react-tailwind-nadun.netlify.app/)
 
 ## My process
 
