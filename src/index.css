@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  body {
+    font-family: 'Karla', sans-serif;
+    @apply subpixel-antialiased
+  }
+  label ,form h2{
+    font-size: 16px;
+    color:hsl(187, 24%, 22%);
+  }
+  label{
+    @apply md:mb-3 text-sm mb-2
+  }
+  .form-input{
+    @apply rounded-md mb-4 cursor-pointer hover:border-primary focus:ring-primary
+  }
+  .error_message{
+    color:hsl(0, 66%, 54%);
+    @apply md:mb-4
+  }
+}
